@@ -1,0 +1,17 @@
+{
+  "name": "rabbitmq-tutorials",
+  "version": "1.0.0",
+  "description": "Tutorials found on rabbitmq website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rabbitmq"
+  ],
+  "author": "Reggie Bigornia",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.6.0"
+  }
+}
